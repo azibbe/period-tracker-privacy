@@ -1,10 +1,10 @@
-<!--
+{% comment %}
   Published at https://azibbe.github.io/period-tracker-privacy/ and pasted into
   both Play Console and the Google OAuth consent screen.
 
-  Generated from docs/dasar-privasi.md in azibbe/period-tracker by
-  docs/hantar-privasi.sh. Do not edit here — it will be overwritten.
--->
+  Generated from the app repo by docs/hantar-privasi.sh.
+  Do not edit here — it will be overwritten.
+{% endcomment %}
 
 # Dasar Privasi — Period Tracker
 
