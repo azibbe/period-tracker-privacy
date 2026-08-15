@@ -2,11 +2,8 @@
   Published at https://azibbe.github.io/period-tracker-privacy/ and pasted into
   both Play Console and the Google OAuth consent screen.
 
-  This repo exists only because GitHub Pages will not serve a private
-  repository on the free plan, and the app's own repo is private. The source of
-  truth is docs/dasar-privasi.md in azibbe/period-tracker — edit it there and
-  run docs/hantar-privasi.sh, so the policy cannot drift away from the code it
-  describes.
+  Generated from docs/dasar-privasi.md in azibbe/period-tracker by
+  docs/hantar-privasi.sh. Do not edit here — it will be overwritten.
 -->
 
 # Dasar Privasi — Period Tracker
